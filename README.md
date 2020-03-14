@@ -3,11 +3,11 @@ A Docker course, hopefully fun and exiting! :)
 
 
 ### Lecture 1
-We'll have an online session, me and a terminal with you watchin and interacting, exploring docker on our porjects in Pelle.
+We'll have an online session, me and a terminal with you watching and interacting, exploring docker on our porjects in Pelle.
 
 But! before that please take a time to familiarize yourself with docker terms and prepare yourself for asking good questions on our online session. :)
 
-I picked some articles just for you, with focuse on docker teminilogy and simple commands. But feel free to find more if you don't feel comfortable with them. (Because you all have a running docker instance, so I skipped the installation.)
+I picked some articles just for you, with focuse on docker terminology and simple commands. But feel free to find more if you don't feel comfortable with them. (Because you all have a running docker instance, so I skipped the installation.)
 
 Recommended reources:
 - [Play with Docker classroom](https://training.play-with-docker.com/dev-stage1/) (An online tutorial with a docker sandbox combined)
