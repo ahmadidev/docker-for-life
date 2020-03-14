@@ -11,6 +11,8 @@ I picked some articles just for you, with focuse on docker terminology and simpl
 
 Recommended reources:
 - [Play with Docker classroom](https://training.play-with-docker.com/dev-stage1/) (An online tutorial with a docker sandbox combined)
+![Play with Docker classroom](image.png)
+
 - https://docker-curriculum.com/ (Skip docker on aws or other could sections)
 - https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/ (You can replace fedora or ubuntu images with busybox if you are not comfortable with downloading a big image)
 - https://www.guru99.com/docker-tutorial.html (Short article with almost simple commands)
