@@ -19,4 +19,12 @@ Recommended reources:
 
 
 ### Lecture 2
-After you spend some time playing with docker ;)
+We had an online session on twitch and discussed about:
+- Architecture (Client, Daemon, Registry)
+- Benefits of Dockerizing (Envirnment as code, easy deployment across different environments, ...)
+- Difference between docker images and containers
+- Hands on! We investigated a sample dockerfile, made an image from it and ran it with custom env-vars and port mappings.
+
+Here is our online session whiteboard :)
+
+![Docker for live presentation](Docker-for-life-presentation.png)
